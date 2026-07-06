@@ -25,3 +25,9 @@
 	<li><code>1 &lt;= n &lt;= 20</code></li>
 	<li><code>-1000 &lt;= matrix[i][j] &lt;= 1000</code></li>
 </ul>
+
+
+step 1:- find the length of the matrix which is 3 for 3x3
+step 2:- apply nested loop with range of n and i+1,n
+step 3:- swap the digits
+step 4 :- use another loop with range of n to reverse the matrix row
