@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0287-find-the-duplicate-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -75,6 +77,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
