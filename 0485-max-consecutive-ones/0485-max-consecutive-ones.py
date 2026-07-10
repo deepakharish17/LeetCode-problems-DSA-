@@ -4,7 +4,8 @@ class Solution(object):
         for i in nums:
             if i==1:
                 cur+=1
-                ans=max(cur,ans)
+                if cur > ans:
+                    ans=cur
             else:
                 cur=0
         return ans
