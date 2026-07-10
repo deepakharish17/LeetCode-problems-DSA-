@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -73,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
