@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0088-merge-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0287-find-the-duplicate-number) |
