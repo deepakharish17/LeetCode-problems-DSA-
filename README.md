@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 ## Recursion
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
@@ -103,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
