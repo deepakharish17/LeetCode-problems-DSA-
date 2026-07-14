@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1004-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
