@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
