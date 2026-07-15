@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0151-reverse-words-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
