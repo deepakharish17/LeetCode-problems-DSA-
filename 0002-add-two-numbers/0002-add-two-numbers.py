@@ -3,12 +3,9 @@ class Solution:
         
         dummy = ListNode()
         res = dummy
-
         total = carry = 0
-
         while l1 or l2 or carry:
             total = carry
-
             if l1:
                 total += l1.val
                 l1 = l1.next
