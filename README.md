@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0229-majority-element-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
