@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0056-merge-intervals) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0169-majority-element) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0151-reverse-words-in-a-string) |
