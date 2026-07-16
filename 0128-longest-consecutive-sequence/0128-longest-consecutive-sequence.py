@@ -10,5 +10,5 @@ class Solution(object):
                     current_num += 1
                     current_streak += 1
                 longest = max(longest, current_streak)
-                
         return longest
+
