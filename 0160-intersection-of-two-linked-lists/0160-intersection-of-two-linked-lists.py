@@ -28,9 +28,8 @@ class Solution:
             while diff!=0:
                 headA=headA.next
                 diff-=1
-        while headA and headB:
-            if headA==headB:
-                return headA
-            headA=headA.next
-            headB=headB.next
-        return None
+        while headA != headB:
+            headA = headA.next
+            headB = headB.next
+            
+        return headA
