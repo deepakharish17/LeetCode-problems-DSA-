@@ -21,8 +21,14 @@ class Solution:
         lista = headA
         listb = headB
         while lista != listb:
-            lista = lista.next if lista else headB
-            listb = listb.next if listb else headA
+            if lista:
+                lista = lista.next
+            else:
+             lista = headB
+            if listb:
+               listb = listb.next
+            else:
+                listb = headA
         return listb
     #     diff = self.getdifference(headA,headB)
 
