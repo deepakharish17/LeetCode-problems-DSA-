@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0141-linked-list-cycle) |
