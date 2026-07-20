@@ -1,9 +1,5 @@
-class Solution(object):
-    def removeDuplicates(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
         seen=set()
         pos=0
         for num in nums:
@@ -12,4 +8,3 @@ class Solution(object):
                 nums[pos]=num
                 pos+=1
         return pos
-        
