@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0645-set-mismatch) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1004-max-consecutive-ones-iii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0053-maximum-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
