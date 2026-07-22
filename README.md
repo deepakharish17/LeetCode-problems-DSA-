@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0151-reverse-words-in-a-string) |
 ## Linked List
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0232-implement-queue-using-stacks) |
