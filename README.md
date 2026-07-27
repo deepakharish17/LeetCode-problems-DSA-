@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0229-majority-element-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
