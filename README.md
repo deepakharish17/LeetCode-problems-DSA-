@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1982-find-array-given-subset-sums](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1982-find-array-given-subset-sums) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0645-set-mismatch) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1982-find-array-given-subset-sums](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1982-find-array-given-subset-sums) |
 ## Two Pointers
 |  |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
