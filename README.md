@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 ## Recursion
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0088-merge-sorted-array) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
