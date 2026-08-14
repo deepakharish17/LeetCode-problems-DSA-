@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0151-reverse-words-in-a-string) |
+| [0686-repeated-string-match](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0686-repeated-string-match) |
 ## Linked List
 |  |
 | ------- |
@@ -235,4 +236,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
