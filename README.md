@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0713-subarray-product-less-than-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1004-max-consecutive-ones-iii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0300-longest-increasing-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
