@@ -1,6 +1,10 @@
-class Solution:
-    def climbStairs(self, n: int) -> int:
-        if n<=2:
+class Solution(object):
+    def climbStairs(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        if n <=2:
             return n
         prev2=1
         prev1=2
@@ -9,3 +13,4 @@ class Solution:
             prev2=prev1
             prev1=curr
         return prev1
+        
