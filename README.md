@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0713-subarray-product-less-than-k) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0494-target-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -272,8 +275,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
