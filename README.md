@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0645-set-mismatch) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -266,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
