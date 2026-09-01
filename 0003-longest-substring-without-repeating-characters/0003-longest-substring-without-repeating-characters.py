@@ -1,5 +1,9 @@
-class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
+class Solution(object):
+    def lengthOfLongestSubstring(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         lastseen={}
         start=0
         maxlen=0
@@ -9,3 +13,4 @@ class Solution:
             lastseen[s[i]]=i
             maxlen=max(maxlen,i-start+1)
         return maxlen
+        
