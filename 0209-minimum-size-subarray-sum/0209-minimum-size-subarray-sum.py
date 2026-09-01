@@ -9,4 +9,4 @@ class Solution:
                 maxlen=min(maxlen, i-start+1)
                 currsum-=nums[start]
                 start+=1
-        return maxlen if maxlen !=float('inf')else 0
+        return maxlen if maxlen !=float('inf') else 0
