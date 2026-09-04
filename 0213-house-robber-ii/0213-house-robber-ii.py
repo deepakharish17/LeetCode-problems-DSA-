@@ -1,20 +1,14 @@
 class Solution:
-    def rob(self, nums: list[int]) -> int:
-
-        if len(nums) == 1:
+    def rob(self, nums: List[int]) -> int:
+        if len(nums)<=1:
             return nums[0]
-
-        def rob_linear(arr):
-            prev2 = 0
-            prev1 = 0
-            for money in arr:
-                current = max(prev1, prev2 + money)
-                prev2 = prev1
-                prev1 = current
+        def robb(nums):
+            prev2,prev1=0,0
+            for i in nums:
+                curr=max(prev1,prev2+i)
+                prev2=prev1
+                prev1=curr
             return prev1
-
-        # Case 1: Don't rob the last house
-        case1 = rob_linear(nums[:-1])
-        # Case 2: Don't rob the first house
-        case2 = rob_linear(nums[1:])
-        return max(case1, case2)
+        skip1=robb(nums[1:])
+        skip2=robb(nums[:-1])
+        return max(skip1,skip2)
