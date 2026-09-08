@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0229-majority-element-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0416-partition-equal-subset-sum) |
