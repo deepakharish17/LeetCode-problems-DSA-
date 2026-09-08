@@ -1,16 +1,11 @@
-class Solution(object):
-    def climbStairs(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        if n <=2:
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        if n<=1:
             return n
-        prev2=1
-        prev1=2
+        f1=2
+        f2=1
         for i in range(3,n+1):
-            curr=prev1+prev2
-            prev2=prev1
-            prev1=curr
-        return prev1
-        
+            curr=f1+f2
+            f2=f1
+            f1=curr
+        return f1
