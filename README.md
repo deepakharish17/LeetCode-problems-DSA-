@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1982-find-array-given-subset-sums](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1982-find-array-given-subset-sums) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3693-climbing-stairs-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0918-maximum-sum-circular-subarray) |
+| [3693-climbing-stairs-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
 |  |
 | ------- |
