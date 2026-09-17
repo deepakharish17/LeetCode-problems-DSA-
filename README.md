@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0509-fibonacci-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0118-pascals-triangle) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0494-target-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
