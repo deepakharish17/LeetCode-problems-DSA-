@@ -5,8 +5,7 @@ class Solution:
         for i in range(1,len(prices)):
             if buy_price> prices[i]:
                 buy_price=prices[i]
-            elif prices[i] - buy_price > profit:
-                profit = prices[i] - buy_price
+            profit=max(profit,prices[i]-buy_price)
         return profit
 
     # class Solution(object):
