@@ -1,9 +1,5 @@
-class Solution(object):
-    def trap(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
+class Solution:
+    def trap(self, height: list[int]) -> int:
         left,right=0,len(height)-1
         left_max=height[left]
         right_max=height[right]
@@ -17,5 +13,4 @@ class Solution(object):
                 right-=1
                 right_max=max(right_max,height[right])
                 water+=right_max-height[right]
-        return water
-        
+        return water                
