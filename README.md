@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0064-minimum-path-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0088-merge-sorted-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0141-linked-list-cycle) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0686-repeated-string-match) |
