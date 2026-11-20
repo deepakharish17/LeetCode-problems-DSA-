@@ -16,6 +16,6 @@ class Solution:
             num = total % 10
             carry = total // 10
             dummy.next = ListNode(num)
-            dummy = dummy.next
+            dummy = dummy.next  
         
         return res.next
