@@ -1,21 +1,26 @@
-class Solution(object):
-    def isPalindrome(self, head):
-    # Create a stack/list and create and set a summy pointer with head
-    # add all values in stack
-    # now check all stack values is palindrome for that uses temp.val != stack[-1]
-    # and traverse the stack and figure it out
-        stack=[]
-        temp=head
-        while temp is not None:
-            stack.append(temp.val)
-            temp=temp.next
-        temp=head
-        while temp is not None:
-            if temp.val != stack[-1]:
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def isPalindrome(self, head: ListNode | None) -> bool:
+        slow=fast=head
+
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next
+        prev=None
+        cur=slow
+        while cur:
+            next=cur.next
+            cur.next=prev
+            prev=cur
+            cur=next
+        left,right=head,prev
+        while right:
+            if left.val != right.val:
                 return False
-            stack.pop()
-            temp=temp.next
+            left=left.next
+            right=right.next
         return True
-
-
-
