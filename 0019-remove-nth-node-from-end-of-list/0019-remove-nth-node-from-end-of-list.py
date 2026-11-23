@@ -5,11 +5,6 @@
 #         self.next = next
 class Solution(object):
     def removeNthFromEnd(self, head, n):
-        """
-        :type head: Optional[ListNode]
-        :type n: int
-        :rtype: Optional[ListNode]
-        """
         dummy=ListNode(0,head)
         fast=dummy
         slow=dummy
