@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1982-find-array-given-subset-sums) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3693-climbing-stairs-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [3934-smallest-unique-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0904-fruit-into-baskets) |
 | [1982-find-array-given-subset-sums](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1982-find-array-given-subset-sums) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3934-smallest-unique-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -341,4 +344,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0142-linked-list-cycle-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
