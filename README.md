@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3360-stone-removal-game](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3360-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
@@ -356,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3934-smallest-unique-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
