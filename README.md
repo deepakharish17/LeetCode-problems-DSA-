@@ -361,4 +361,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/3360-stone-removal-game) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/deepakharish17/LeetCode-problems-DSA-/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
